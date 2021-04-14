@@ -1,2 +1,3 @@
 # Weather-and-Light
-Weatherstation and LED Bar
+control of the LED Bar
+read data from the weatherstation
